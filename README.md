@@ -17,15 +17,16 @@
 
 - 📫 How to reach me **spandanar1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N1AfZiVyoLjdPy6WBC8Ucx3OxWVAWnbL/view?usp=sharing](https://drive.google.com/file/d/1N1AfZiVyoLjdPy6WBC8Ucx3OxWVAWnbL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N1AfZiVyoLjdPy6WBC8Ucx3OxWVAWnbL/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny sometimes**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-ray" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/spandyx007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/spandyx007" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/spandy_xzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/spandy_xzx" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/spandy_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spandy_x" height="30" width="40" /></a>
 </div>
 
 <br>
