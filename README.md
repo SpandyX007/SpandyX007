@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://spandanray.vercel.app/](https://spandanray.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://spandanray.vercel.app/)
 
 - 💬 Ask me about **Python, Scikit-learn, Tensorflow**
 
@@ -23,10 +23,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-ray" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/spandyx007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/spandyx007" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/spandy_xzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/spandy_xzx" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/spandy_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spandy_x" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/spandan-ray" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-ray" height="30" width="40" /></a>
+  <a href="https://www.kaggle.com/spandyx007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/spandyx007" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/spandy_xzx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/spandy_xzx" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/spandy_x" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spandy_x" height="30" width="40" /></a>
 </div>
 
 <br>
