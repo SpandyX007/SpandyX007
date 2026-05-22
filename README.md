@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandyx007&label=Profile%20views&color=0e75b6&style=plastic" alt="spandyx007" /> </p>
 
-- 🔭 I’m currently working on [Link-Whishper](https://github.com/SpandyX007/RAG-streamlit-pinecone.git)
+- 🔭 I’m currently working on [Link-Whisper](https://github.com/SpandyX007/RAG-streamlit-pinecone.git)
 
 - 🌱 I’m currently learning **Deep Learning**
 
