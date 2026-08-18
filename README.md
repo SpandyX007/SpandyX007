@@ -3,23 +3,23 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Spandan Ray</h1>
-<h3 align="center">An upcoming AI/ML engineer OR Data Scientist</h3>
+<h3 align="center">An upcoming AI/ML engineer AND Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spandyx007&label=Profile%20views&color=0e75b6&style=plastic" alt="spandyx007" /> </p>
 
-- 🔭 I’m currently working on [Link-Whisper](https://github.com/SpandyX007/RAG-streamlit-pinecone.git)
+- 🔭 I’m currently working on [BloomSocial.AI](https://github.com/bloomsocial-ai)
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and MLOps**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://spandanray.vercel.app/)
 
-- 💬 Ask me about **Python, Scikit-learn, Tensorflow**
+- 💬 Ask me about **Python, Scikit-learn, TensorFlow, RAG, LLMs, Generative AI**
 
 - 📫 How to reach me **spandanar1234@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1N1AfZiVyoLjdPy6WBC8Ucx3OxWVAWnbL/view?usp=sharing)
+- 📄 Know about my experience [Resume](https://drive.google.com/file/d/1fp7mMFy0ro6H7orX-tVH2OSQjXfakFOv/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny sometimes**
+- ⚡ Fun fact: **I am funny...sometimes**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
